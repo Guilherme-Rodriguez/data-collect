@@ -2,6 +2,7 @@
 import requests
 from bs4 import BeautifulSoup
 from tqdm import tqdm
+import pandas as pd
 
 
 headers = {
@@ -79,6 +80,19 @@ data = []
 for i in tqdm(links):
     d = get_personagens_infos(i)
     d['link'] = i
+    nome = i.split("/")[-1].replace("-"," " ).title()
     data.append(d)
+    d['Nome'] = nome
+    data.append(d)
+
+# %%
+df = pd.DataFrame(data)
+df
+# %%
+df.to_csv("dados_re.csv", index = False, sep = ";")
+
+# %%
+df.to_pickle("dados_re.pkl")
+
 
 # %%
