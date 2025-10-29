@@ -1,0 +1,120 @@
+{
+    "count": 1328,
+    "next": null,
+    "previous": "https://pokeapi.co/api/v2/pokemon/?offset=1200&limit=100",
+    "results": [
+        {
+            "name": "terapagos-terastal",
+            "url": "https://pokeapi.co/api/v2/pokemon/10276/"
+        },
+        {
+            "name": "terapagos-stellar",
+            "url": "https://pokeapi.co/api/v2/pokemon/10277/"
+        },
+        {
+            "name": "clefable-mega",
+            "url": "https://pokeapi.co/api/v2/pokemon/10278/"
+        },
+        {
+            "name": "victreebel-mega",
+            "url": "https://pokeapi.co/api/v2/pokemon/10279/"
+        },
+        {
+            "name": "starmie-mega",
+            "url": "https://pokeapi.co/api/v2/pokemon/10280/"
+        },
+        {
+            "name": "dragonite-mega",
+            "url": "https://pokeapi.co/api/v2/pokemon/10281/"
+        },
+        {
+            "name": "meganium-mega",
+            "url": "https://pokeapi.co/api/v2/pokemon/10282/"
+        },
+        {
+            "name": "feraligatr-mega",
+            "url": "https://pokeapi.co/api/v2/pokemon/10283/"
+        },
+        {
+            "name": "skarmory-mega",
+            "url": "https://pokeapi.co/api/v2/pokemon/10284/"
+        },
+        {
+            "name": "froslass-mega",
+            "url": "https://pokeapi.co/api/v2/pokemon/10285/"
+        },
+        {
+            "name": "emboar-mega",
+            "url": "https://pokeapi.co/api/v2/pokemon/10286/"
+        },
+        {
+            "name": "excadrill-mega",
+            "url": "https://pokeapi.co/api/v2/pokemon/10287/"
+        },
+        {
+            "name": "scolipede-mega",
+            "url": "https://pokeapi.co/api/v2/pokemon/10288/"
+        },
+        {
+            "name": "scrafty-mega",
+            "url": "https://pokeapi.co/api/v2/pokemon/10289/"
+        },
+        {
+            "name": "eelektross-mega",
+            "url": "https://pokeapi.co/api/v2/pokemon/10290/"
+        },
+        {
+            "name": "chandelure-mega",
+            "url": "https://pokeapi.co/api/v2/pokemon/10291/"
+        },
+        {
+            "name": "chesnaught-mega",
+            "url": "https://pokeapi.co/api/v2/pokemon/10292/"
+        },
+        {
+            "name": "delphox-mega",
+            "url": "https://pokeapi.co/api/v2/pokemon/10293/"
+        },
+        {
+            "name": "greninja-mega",
+            "url": "https://pokeapi.co/api/v2/pokemon/10294/"
+        },
+        {
+            "name": "pyroar-mega",
+            "url": "https://pokeapi.co/api/v2/pokemon/10295/"
+        },
+        {
+            "name": "floette-mega",
+            "url": "https://pokeapi.co/api/v2/pokemon/10296/"
+        },
+        {
+            "name": "malamar-mega",
+            "url": "https://pokeapi.co/api/v2/pokemon/10297/"
+        },
+        {
+            "name": "barbaracle-mega",
+            "url": "https://pokeapi.co/api/v2/pokemon/10298/"
+        },
+        {
+            "name": "dragalge-mega",
+            "url": "https://pokeapi.co/api/v2/pokemon/10299/"
+        },
+        {
+            "name": "hawlucha-mega",
+            "url": "https://pokeapi.co/api/v2/pokemon/10300/"
+        },
+        {
+            "name": "zygarde-mega",
+            "url": "https://pokeapi.co/api/v2/pokemon/10301/"
+        },
+        {
+            "name": "drampa-mega",
+            "url": "https://pokeapi.co/api/v2/pokemon/10302/"
+        },
+        {
+            "name": "falinks-mega",
+            "url": "https://pokeapi.co/api/v2/pokemon/10303/"
+        }
+    ],
+    "ingestion_date": "2025-10-29T10:00:38.993309"
+}
